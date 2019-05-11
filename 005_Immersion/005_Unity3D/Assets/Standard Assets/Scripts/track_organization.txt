@@ -1,0 +1,41 @@
+1
+Collectives
+999
+999
+999
+slider name 1.1
+999
+slider name 1.2
+999
+slider name 1.3
+999
+slider name 1.4
+999
+1
+slider name 2.1
+999
+slider name 2.2
+999
+slider name 2.3
+999
+slider name 2.4
+999
+0
+slider name 3.1
+999
+slider name 3.2
+999
+slider name 3.3
+999
+slider name 3.4
+999
+0
+slider name 4.1
+999
+slider name 4.2
+999
+slider name 4.3
+999
+slider name 4.4
+999
+1

@@ -1,0 +1,41 @@
+3
+Topographic
+Continuous
+Fluid
+999
+Sample Density
+10
+Roundness
+127
+Spread
+127
+Edge Fidelity
+100
+1
+Roundness
+67
+Shear
+5
+slider name 2.3
+999
+slider name 2.4
+999
+0
+Ovoidiness
+90
+slider name 3.2
+999
+slider name 3.3
+999
+slider name 3.4
+999
+0
+slider name 4.1
+999
+slider name 4.2
+999
+slider name 4.3
+999
+slider name 4.4
+999
+1

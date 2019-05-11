@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Standard Assets/Scenes/Landscape.unity
+  isLoaded: 1
+  isActive: 1
